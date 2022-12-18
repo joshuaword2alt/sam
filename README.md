@@ -12,6 +12,9 @@ and the refactorings by
 [Vidar Hokstad](https://github.com/vidarh/SAM) and
 [8BitPimp](https://github.com/8BitPimp/SAM)
 [or like the ui v1](https://benisland.neocities.org/petpet/)
+[idk](https://youtu.be/OI-To1eUtuU)
+[that-one](https://www.youtube.com/@kanepixels)
+[done](https://www.youtube.com/@RetroGamingNow)
 
 It includes a Text-To-Phoneme converter called reciter and a
 Phoneme-To-Speech routine for the final output.
