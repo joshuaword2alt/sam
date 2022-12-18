@@ -11,6 +11,7 @@ It is based on the adaption to C by
 and the refactorings by 
 [Vidar Hokstad](https://github.com/vidarh/SAM) and
 [8BitPimp](https://github.com/8BitPimp/SAM)
+[or like the ui v1](https://benisland.neocities.org/petpet/)
 
 It includes a Text-To-Phoneme converter called reciter and a
 Phoneme-To-Speech routine for the final output.
